@@ -1,22 +1,17 @@
 {
     "articles": [
       {
-        "name": "Article 1",
-        "description": "Description of article 1. This is a multiline description. It can contain multiple lines of text to provide detailed information about the article.",
-        "image": "https://via.placeholder.com/150",
-        "url": "article1.html"
+        "name": "D. B. COOPER",
+        "description": "D. B. COOPER is a airplane hijacker. He demanded $200,000 (Now: 1,500,000) in randsom. After he got the payment he jumped out of the plane mid flight...",
+        "image": "D. B. COOPER/Top-Photo.webp",
+        "url": "D. B. COOPER"
       },
       {
         "name": "Article 2",
         "description": "Description of article 2. Another example of a multiline description.",
         "image": "https://via.placeholder.com/150",
         "url": "article2.html"
-      },
-      {
-        "name": "Article 3",
-        "description": "Description of article 3. Yet another multiline description.",
-        "image": "https://via.placeholder.com/150",
-        "url": "article3.html"
+      }
       }
     ]
   }
